@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nyfirUVBDbOo0S2+tXfAk+OVb1gPntfJFjikB/BfnFIXscoIIns3VjWwVHjpcmPbYOYSKV9Mak6l+BrGxNaW7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anama\\Downloads\\tap-tema2-codebase-master\\tap-tema2-codebase-master\\Tema2Console\\Tema2Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anama\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
